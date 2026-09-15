@@ -1,0 +1,10 @@
+{
+  "name": "sigame-pack-editor",
+  "private": true,
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build", "preview": "vite preview" },
+  "dependencies": { "jszip": "^3.10.1" },
+  "devDependencies": { "typescript": "^5.7.3", "vite": "^6.1.0" }
+}
